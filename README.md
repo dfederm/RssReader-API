@@ -5,6 +5,7 @@ This is the API layer for RssReader
 
 ## How to Build and Run
 Build:
+
 1. `dotnet restore`
 2. `dotnet build src test`
 
